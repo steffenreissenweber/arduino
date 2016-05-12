@@ -1,10 +1,10 @@
 
 
 /* 
-  Autor.....: Steffen Reißenweber
+  Autor.....: (C) 2014 Erik Bartmann <Erik.Bartmann@yahoo.de>
   URL.......: 
   Version...: 0.0.1
-  Date......: 02.05.2016
+  Date......: 2014
   modified..: 02.02.2016
   Autor.....: Steffen Reißenweber
 */
